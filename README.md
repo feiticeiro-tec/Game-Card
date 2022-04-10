@@ -1,4 +1,4 @@
-# ORGANIZADOR
+# CARDGAME
 Ola boas vindas ao meu github aqui voce encontrará o repositorio def um jogo jeito em kivymd, a ideia surgiu de uma competição de replica de um aplicativo X em menos linha possivel
 ## Destaque
 O destaque do projeto fica na manipulação na utilização de kivymd para a composição  de interface
